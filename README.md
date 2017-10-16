@@ -1,13 +1,13 @@
 # CV
 ## DHANASHREE THORAT
-Postdoctoral Researcher |  Institute for Digital Research in the Humanities | University of Kansas
-
+Postdoctoral Researcher |  Institute for Digital Research in the Humanities | University of Kansas  
 Website : www.dthorat.com  | Email: dthorat[at]ku.edu | Twitter: @shree_thorat
 
-### EDUCATION
-**PhD** University of Florida (2017)
+### Education
+**PhD in English**, University of Florida (2017)  
+     Certificate in Digital Humanities
 
-**MA**  University of Florida (2013)
+**MA in English**,  University of Florida (2013)
 
-### RESEARCH INTERESTS
+### Research Interests
 Postcolonial Studies, Asian American Studies, Digital Humanities
